@@ -1,6 +1,7 @@
 Electrical Load Monitoring & Billing Simulator
 MID SEMESTER CAPSTONE PROJECT
-
+Name:Emmanuel Jerry Danso
+Student ID:01243527D
 Course: EEE 227 (PT)
 Programme: HND Electrical Engineering (Level 200)
 Development Environment: VS Code (Windows)
